@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/start.png</file>
+        <file>image/deletw.png</file>
+        <file>image/stop.png</file>
+        <file>image/wait.png</file>
+        <file>image/文件夹.png</file>
+        <file>image/文件.png</file>
+        <file>qss/Ubuntu.qss</file>
+        <file>qss/person.qss</file>
+        <file>qss/NeonButtons.qss</file>
+        <file>qss/AMOLED.qss</file>
+    </qresource>
+</RCC>
